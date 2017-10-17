@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PaoYingChoop01</string>
+    <string name="hammer">Hammer</string>
+    <string name="scissors">Scissors</string>
+    <string name="paper">Paper</string>
+    <string name="random">Random</string>
+</resources>
